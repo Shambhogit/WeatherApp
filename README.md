@@ -32,8 +32,10 @@ WeatherApp is a React-based web application that provides current weather inform
    ```
 2. Open your browser and go to `http://localhost:5173`.
 
-## Screenshot
-
+## Screenshots
+### output 1
+![WeatherApp Screenshot](output2.png)
+### output 2
 ![WeatherApp Screenshot](output.png)
 
 ## Technologies Used

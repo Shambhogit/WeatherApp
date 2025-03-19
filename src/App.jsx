@@ -26,9 +26,11 @@ const App = () => {
       setForecast(response.data.forecast);
       setTitleCity(response.data.location.name);
       setLocation(response.data.location);
-      console.log(response);
+      setCity('');
+      // console.log(response);
     } catch (error) {
       console.log("error");
+      setCity('');
     }
   };
   
